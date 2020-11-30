@@ -10,4 +10,4 @@ Learning about the future of television becomes more important because of the co
 
 ![2020 tv](https://user-images.githubusercontent.com/70166198/100650373-73798c80-3309-11eb-8650-9a96fd25535f.jpg)
 
-The target audience is mainly middle-aged adults who don't have the initial knowledge of how to use applications like Netflix, and Hulu. These are the future of television because they have the potential to take over live TV. Younger kids use these applications everyday and can honestly teach others how to use them if they wanted. I want to be able to help the older generationa adapt to them, so they will know how to use them when it's their only option. 
+The target audience is mainly middle-aged adults who don't have the initial knowledge of how to use applications like Netflix, and Hulu. These are the future of television because they have the potential to take over live TV. Younger kids use these applications everyday and can honestly teach others how to use them if they wanted. I want to be able to help the older generationa adapt to them, so they will know how to use them when it becomes their only option. 
