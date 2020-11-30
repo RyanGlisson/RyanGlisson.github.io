@@ -1,4 +1,4 @@
-#### The Future of Television and applications: by Ryan Glisson
+#### The Future of Television and Applications: by Ryan Glisson
 
 ## Why learn about the future of television and applications?
 
