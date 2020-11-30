@@ -1,6 +1,6 @@
-The Future of Television: by Ryan Glisson
+## The Future of Television: by Ryan Glisson
 
-**## Why learn about the future of television?**
+### Why learn about the future of television?
 
 Television has come a long way since the first electronic television was invented in 1927 by Philo Taylor Farnsworth. Thesse devices were very small compared to the eighty inch displays we see today. Seeing how much it has changed throughout the years can show why it's important to learn what the next twenty years will bring us in the world of televsion, and how difficult it will be to adapt to these changes.
 
