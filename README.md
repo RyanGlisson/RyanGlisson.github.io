@@ -11,3 +11,31 @@ Learning about the future of television becomes more important because of the co
 ![2020 tv](https://user-images.githubusercontent.com/70166198/100650373-73798c80-3309-11eb-8650-9a96fd25535f.jpg)
 
 The target audience is mainly middle-aged adults who don't have the initial knowledge of how to use applications like Netflix, and Hulu. These are the future of television because they have the potential to take over live TV. Younger kids use these applications everyday and can honestly teach others how to use them if they wanted. I want to be able to help the older generationa adapt to them, so they will know how to use them when it becomes their only option. 
+________________________________________________________________________________________________________________________________________________________________________________
+
+## What will the future of television look like?
+
+The future of television will continue to transform into a more personal experience for viewers unlike the world has ever seen before. The best way to describe this is the constant growth of streaming and on-demand services provided. This gives the viewer an option to choose exactly what they want to watch, and when they want to watch it. Customers won't have to wait around for their favorite show to start because they can just click play on applications like Netflix whenever they want. 
+
+Popular streaming services today include:
+
+- Netflix
+- Hulu
+- Disney+
+- Amazon prime
+- Youtube TV
+
+These services are already being widely used by viewers, and are growing in popularity each day. Each services provides different shows, and viewers can choose which one they prefer based on their interests. For instance, Disney+ will have shows that are more prone to younger users who can watch their favorite movies whenever they want.
+______________________________________________________________________________________________________________________________________________________________________________
+
+## Adjusting to the application's
+
+It's important to know how to adjust to these applications, so you're prepared when there is no other option. This can feel difficult for the older generation because they are not use to watching television like this. 
+Here are the **steps to sign up** for the popular streaming service, Netflix:
+- Visit netflix.com/signup
+- Choose a plan that fits you. (Netflix offers three plans: Basic ($8.99), Standard ($13.99), and Premium ($17.99). The more expensive options give you the chance to watch on multiple screen at once, and download more shows on different devices.
+- Create an account by entering your email, and creating a personl password.
+- Enter your preferred payment method.
+- Begin streaming your favorite TV shows!
+
+These steps are very similar to other streaming services as well. Following these steps can make this very simple to adjust to when you decide to sign up for these streaming services. It's very important to learn them now, so when live tv potentially goes away, you will have other options to watch your favorite shows and movies.
