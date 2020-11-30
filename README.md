@@ -26,6 +26,8 @@ Popular streaming services today include:
 - Youtube TV
 
 These services are already being widely used by viewers, and are growing in popularity each day. Each services provides different shows, and viewers can choose which one they prefer based on their interests. For instance, Disney+ will have shows that are more prone to younger users who can watch their favorite movies whenever they want.
+
+![image](https://user-images.githubusercontent.com/70166198/100656388-42ea2080-3312-11eb-8585-f2335337ac21.png)
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ## Adjusting to the application's
