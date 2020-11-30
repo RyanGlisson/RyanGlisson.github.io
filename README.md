@@ -8,5 +8,6 @@ Television has come a long way since the first electronic television was invente
 
 Learning about the future of television becomes more important because of the constant changes that happens to it on a daily basis. We live in a world of technology surrounded by applications such as Netflix, and Hulu that could potentially take over in the years to come. Televisions have been given larger displays over the years along with an increase in graphics giving the viewer a better expereince. I will be telling you what the future will hold for television and how to navigate the changes that will become our new world. 
 
+![2020 tv](https://user-images.githubusercontent.com/70166198/100650373-73798c80-3309-11eb-8650-9a96fd25535f.jpg)
 
 
