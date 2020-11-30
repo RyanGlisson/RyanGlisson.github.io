@@ -25,7 +25,7 @@ Popular streaming services today include:
 - Amazon prime
 - Youtube TV
 
-These services are already being widely used by viewers, and are growing in popularity each day. Each services provides different shows, and viewers can choose which one they prefer based on their interests. For instance, Disney+ will have shows that are more prone to younger users who can watch their favorite movies whenever they want.
+These services are already being widely used by viewers, and are growing in popularity each day. Each services provides different shows, and viewers can choose which one they prefer based on their interests. For instance, Disney+ will have shows that are more prone to younger users who can watch their favorite movies whenever they want. This will likely be the future of television as companies begin to create their own streaming services for the public to use. 
 
 ![image](https://user-images.githubusercontent.com/70166198/100656388-42ea2080-3312-11eb-8585-f2335337ac21.png)
 ______________________________________________________________________________________________________________________________________________________________________________
@@ -41,3 +41,7 @@ Here are the **steps to sign up** for the popular streaming service, Netflix:
 - Begin streaming your favorite TV shows!
 
 These steps are very similar to other streaming services as well. Following these steps can make this very simple to adjust to when you decide to sign up for these streaming services. It's very important to learn them now, so when live tv potentially goes away, you will have other options to watch your favorite shows and movies.
+
+## Conclusion
+
+To conclude, applications including streaming services are the future of television. They will continue to grow each day until most of the world is using them over live Tv, so they can watch their favorite shows whenever they want. I hope this information was helpful in learning the future of how we watch our movies, and tv shows, so you can enjoy it even better.
