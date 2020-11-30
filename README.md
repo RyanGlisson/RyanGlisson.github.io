@@ -1,1 +1,1 @@
-Smart Phones by Ryan Glisson
+Digital Display Technology by Ryan Glisson
